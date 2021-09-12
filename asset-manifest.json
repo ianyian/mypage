@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mypage/static/css/main.6e571bbb.chunk.css",
+    "main.js": "/mypage/static/js/main.1adc2b70.chunk.js",
+    "main.js.map": "/mypage/static/js/main.1adc2b70.chunk.js.map",
+    "runtime-main.js": "/mypage/static/js/runtime-main.12f6dd1d.js",
+    "runtime-main.js.map": "/mypage/static/js/runtime-main.12f6dd1d.js.map",
+    "static/js/2.bc95eb4f.chunk.js": "/mypage/static/js/2.bc95eb4f.chunk.js",
+    "static/js/2.bc95eb4f.chunk.js.map": "/mypage/static/js/2.bc95eb4f.chunk.js.map",
+    "static/js/3.b71a3ba9.chunk.js": "/mypage/static/js/3.b71a3ba9.chunk.js",
+    "static/js/3.b71a3ba9.chunk.js.map": "/mypage/static/js/3.b71a3ba9.chunk.js.map",
+    "index.html": "/mypage/index.html",
+    "static/css/main.6e571bbb.chunk.css.map": "/mypage/static/css/main.6e571bbb.chunk.css.map",
+    "static/js/2.bc95eb4f.chunk.js.LICENSE.txt": "/mypage/static/js/2.bc95eb4f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mypage/static/media/logo.6ce24c58.svg",
+    "static/media/solvay-conference-5.040c2263.jpg": "/mypage/static/media/solvay-conference-5.040c2263.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12f6dd1d.js",
+    "static/js/2.bc95eb4f.chunk.js",
+    "static/css/main.6e571bbb.chunk.css",
+    "static/js/main.1adc2b70.chunk.js"
+  ]
+}
